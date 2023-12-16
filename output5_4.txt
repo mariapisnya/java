@@ -1,0 +1,9 @@
+Text with 0 replaced with 1: 
+This is a sample text with some zeros (1) scattered throughout.
+This is another line with more zeros: 1111.
+The last line contains a binary number: 11111111.
+
+Inverted text: 
+.tuohguorht derettacs )0( sorez emos htiw txet elpmas a si sihT
+.0000 :sorez erom htiw enil rehtona si sihT
+.01010101 :rebmun yranib a sniatnoc enil tsal ehT
